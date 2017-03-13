@@ -1,0 +1,19 @@
+exports[`test <ButtonShowMore /> renders correctly when disabled is false 1`] = `
+<Button
+  as="button"
+  disabled={false}
+  onClick={[Function]}
+  primary={true}>
+  Show More Issues
+</Button>
+`;
+
+exports[`test <ButtonShowMore /> renders correctly when disabled is true 1`] = `
+<Button
+  as="button"
+  disabled={true}
+  onClick={[Function]}
+  primary={true}>
+  Show More Issues
+</Button>
+`;

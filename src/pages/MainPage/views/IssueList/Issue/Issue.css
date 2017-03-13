@@ -1,0 +1,15 @@
+.issue
+{
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid #ffc300;
+  margin-top: 20px;
+  display: flex;
+  border-top: 4px solid #ffc300;
+  margin-top: 18px;
+}
+
+.img
+{
+  width: 72px;
+  height: 72px;
+}

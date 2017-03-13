@@ -1,0 +1,33 @@
+exports[`test <Issue /> renders correctly 1`] = `
+<Item>
+  <ItemImage
+    size="mini"
+    src="sample" />
+  <ItemContent>
+    <ItemHeader>
+      <Link
+        replace={false}
+        to={
+          Object {
+            "pathname": "undefined/issues/1",
+          }
+        }>
+        sample
+        .
+      </Link>
+    </ItemHeader>
+    <ItemMeta>
+      #
+      1
+       - 
+      just now
+       by 
+      <a
+        href="sample"
+        target="_blank">
+        sample
+      </a>
+    </ItemMeta>
+  </ItemContent>
+</Item>
+`;
